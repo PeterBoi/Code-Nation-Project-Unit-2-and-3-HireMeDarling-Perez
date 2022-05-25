@@ -1,0 +1,46 @@
+h1 {
+    color: red;
+    background-color: #4d2929;
+}
+
+img {
+    width: 350px;
+}
+
+body {
+    text-align: center;
+/*    background-color: blue; Used for one of the indapendent practices */
+/*    background: url("data:image/png;base64,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"); Used for a indapendent practice */
+    background-image: linear-gradient(to right, red, blue);
+    font-family: 'Island Moments', cursive;
+}
+
+
+.aboutthem {
+    background-color: #000000;
+    color: orange;
+}
+
+.ps4 {
+    background-color: green;
+}
+
+.hobby {
+    background-color: #fee975;
+    color: blue;
+}
+
+.needs {
+    background-color: #00ffcc;
+    color: red;
+}
+
+.future {
+    background-color: #fee975;
+    color: #50876b;
+}
+
+.purpose {
+    background-color: #0080ff;
+    color: brown;
+}
